@@ -4,7 +4,7 @@ Notes on install Linux on the AMD [Personal Internet Communicator](https://en.wi
 
 ![AMD Personal Internet Communicator](media/amd-pic.jpg)
 
-The PIC was shipped with a locked-down BIOS which prevented the installation of any other operating system.  Fortunately, someone created a hacked BIOS which circumvents this: [PICMOD.ROM](PICMOD.ROM).
+The PIC was shipped with a locked-down BIOS which prevented the installation of any other operating system.  Fortunately, someone created a hacked BIOS which circumvents this: [PICMOD.ROM](https://github.com/pepaslabs/amd-pic-linux/raw/master/PICMOD.ROM).
 
 ## Credits
 
