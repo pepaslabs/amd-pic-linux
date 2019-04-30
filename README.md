@@ -22,7 +22,6 @@ However, first we need to get access to a command line in WinCE on the AMD PIC:
 Now, on to flashing the BIOS:
 - Download [PICMOD.ROM](https://github.com/pepaslabs/amd-pic-linux/raw/master/PICMOD.ROM) and copy it to a FAT32-formatted USB flash drive, then insert it into the AMD PIC.
 - From the command line:
-  - `cd "\USB device"`
   - `\Windows\FlashCE 256 "\USB device\PICMOD.ROM" 0x01dfd81a noreboot`
 
 ## Links
