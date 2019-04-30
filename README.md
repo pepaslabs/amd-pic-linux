@@ -32,7 +32,10 @@ Now, on to flashing the BIOS:
 - http://mozy.org/amd-pic/
 - http://jsco.org/dectop/
 - http://pair.offshore.ai/pic/
-
+- http://www.dashfest.com/?p=327
+- https://hardforum.com/threads/amd-personal-internet-communicator.990629/
+- https://web.archive.org/web/20071022022658/http://www.linuxdevices.com/news/NS6147197554.html
+- https://web.archive.org/web/20071022135648/http://pclab.nectec.or.th/wiki/index.php/Hardware#AMD_Personal_Internet_Communicator
 
 ## Credits
 
