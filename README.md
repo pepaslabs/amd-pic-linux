@@ -25,6 +25,15 @@ Now, on to flashing the BIOS:
   - `cd "\USB device"`
   - `\Windows\FlashCE 256 "\USB device\PICMOD.ROM" 0x01dfd81a noreboot`
 
+## Links
+
+- https://en.wikipedia.org/wiki/Personal_Internet_Communicator
+- http://www.amdboard.com/pic.html
+- http://mozy.org/amd-pic/
+- http://jsco.org/dectop/
+- http://pair.offshore.ai/pic/
+
+
 ## Credits
 
 - [Photo](https://commons.wikimedia.org/wiki/File:50x15_Personal_Internet_Communicator_(PIC).jpg)
